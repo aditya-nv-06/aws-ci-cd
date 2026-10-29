@@ -1,0 +1,7 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.aws/
+*.pem
+codedeploy-trust-policy.json
